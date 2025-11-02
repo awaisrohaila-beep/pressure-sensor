@@ -584,6 +584,6 @@ All user stories are tracked in `Requirements/UserStories.md` with:
 **When working on a story:**
 1. Reference the story number in your branch name: `feature/story-1-login`
 2. Mention it in PR descriptions: "Implements Story #1: User login"
-3. Check off the checkbox when the story is fully implemented and merged
+3. Check off the checkbox when the story is fully implemented and merged..
 
 For full project requirements and architecture, see the `Requirements/` folder.
